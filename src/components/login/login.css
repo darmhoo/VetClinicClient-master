@@ -1,0 +1,96 @@
+body {
+    overflow: hidden; 
+  }
+
+
+.main{
+    margin-left: 3%;
+}
+
+
+.logo{
+    margin-top: 1%;
+}
+
+.logo img{
+    width:15%;
+}
+
+.welcomeNote{
+    margin-top: 10%;
+}
+
+.welcomeNote h6{   
+    /* font-family: Pangolin; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 69px;
+    color: #5B5B5B;
+}
+
+.myForm form{
+    margin-top: 10%;
+}
+
+.myForm form input{
+    color: #9E9E9E;
+}
+
+.myForm form span {
+    color: #9E9E9E;
+}
+
+.signinBtn{
+    margin-top: 10%;
+}
+
+.signinBtn button{
+    background-color: #41A44B;
+    border-color: #41A44B;
+    width: 180px;
+    border-radius: 5px;
+}
+
+.signinBtn p{
+    color: #9E9E9E;
+}
+
+.signinBtn a{
+    color: #FDB36E;
+}
+
+
+.rememberInput:checked{
+    background-color: #9E9E9E !important;
+    border-color: #9E9E9E !important;
+}
+
+.rememberLabel{
+    color: #9E9E9E;
+}
+
+.forgot{
+    color: #9E9E9E;
+}
+
+.forgot:hover{
+    color: #41A44B;
+}
+
+.new{
+    margin-top: 5%;
+}
+
+.new p{
+    color: #9E9E9E
+}
+
+.new a{
+    color: #FDB36E
+}
+
+
+.signinVector img{
+    width: 90%;
+}
